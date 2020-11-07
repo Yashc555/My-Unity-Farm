@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1988018831
+    locked: 0
+  - name: Soil
+    uniqueID: 3026977467
+    locked: 0
+  - name: Seeds
+    uniqueID: 660703457
+    locked: 0
+  - name: Shop
+    uniqueID: 3005113175
+    locked: 0
+  - name: Character
+    uniqueID: 2327602685
+    locked: 0
+  - name: UI
+    uniqueID: 4192101651
+    locked: 0
