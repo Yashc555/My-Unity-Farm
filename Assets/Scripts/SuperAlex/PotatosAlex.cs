@@ -1,12 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro;
 
-public class PotatoSeedsAlex : MonoBehaviour
+public class PotatosAlex : MonoBehaviour
 {
     TextMeshProUGUI Seeds;
     public static int NoOfSeeds = 0;
+    public static int NoOfPotatoesHarvested = 0;
 
     void Start()
     {

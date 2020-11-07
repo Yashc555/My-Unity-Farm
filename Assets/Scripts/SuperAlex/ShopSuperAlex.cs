@@ -43,7 +43,7 @@ public class ShopSuperAlex : MonoBehaviour
             {
                 MoneySuperAlex.Money -= potatoprice ;
                 NotEnoghMoney.text = "";
-                PotatoSeedsAlex.NoOfSeeds += 1;
+                PotatosAlex.NoOfSeeds += 1;
             }
             else
             {

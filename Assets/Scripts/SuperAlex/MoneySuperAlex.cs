@@ -1,13 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class MoneySuperAlex : MonoBehaviour
 {
     TextMeshProUGUI MoneyText;
-    public static int Money = 100;
+    public static int Money = 20;
     
     void Start()
     {

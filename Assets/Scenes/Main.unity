@@ -1861,6 +1861,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlantSeeds: {fileID: 1734099230}
+  HarvestSeeds: {fileID: 277619787}
   Alex: {fileID: 348968477}
   Seed1: {fileID: 439387138}
   Seed2: {fileID: 1415849482}
@@ -1875,7 +1876,19 @@ MonoBehaviour:
   Seed11: {fileID: 576172333}
   Seed12: {fileID: 1723725359}
   Potato1: {fileID: 599901484}
-  distance: 0
+  Potato2: {fileID: 896178688}
+  Potato3: {fileID: 1117259518}
+  Potato4: {fileID: 1052943887}
+  Potato5: {fileID: 956506112}
+  Potato6: {fileID: 29086198}
+  Potato7: {fileID: 1770860607}
+  Potato8: {fileID: 200958800}
+  Potato9: {fileID: 842012159}
+  Potato10: {fileID: 925264424}
+  Potato11: {fileID: 1364798416}
+  Potato12: {fileID: 1233878026}
+  DistancePlantSeeds: 0
+  DistanceHarvestSeeds: 0
 --- !u!114 &348968485
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1888,6 +1901,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f078142a30910814fa2e4c0214c86bbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TimeForSeed1: 3
 --- !u!114 &348968486
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4010,7 +4028,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1121943006}
   m_Layer: 0
-  m_Name: HalfGrownPotatoes
+  m_Name: Potatoes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
