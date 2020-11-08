@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿/*using UnityEngine;
 using UnityEngine.Networking;
 using System.Collections;
 using TMPro;
@@ -42,4 +42,4 @@ public class GetUserName : MonoBehaviour
 
         }
     }
-}
+}*/
